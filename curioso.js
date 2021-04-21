@@ -39,7 +39,7 @@ alert("no menciones la profesion de tu madre")}
 
 
 else if(nombre == "zorra mal parida"){
-alert("decmos lo que somos por ende tu eres lo que dijiste")}
+alert("eso gritaba tu madre esta noche conmigo")}
 
 
 else if(nombre == "estupido"){
