@@ -30,6 +30,20 @@ else if(nombre == "si"){
 alert("Si qué? te parto el orto?")}
 
 
+else if(nombre == "marica"){
+alert("tu padre quiso serlo para no tenerte, por eso no tienes")}
+
+
+else if(nombre == "puta"){
+alert("no menciones la profesion de tu madre")}
+
+
+else if(nombre == "zorra mal parida"){
+alert("decmos lo que somos por ende tu eres lo que dijiste")}
+
+
+else if(nombre == "estupido"){
+alert("todo el mundo lo fuimos una vez, pero tu abusas del derecho")}
 
 else{
 alert("Por cierto hola, " + nombre)
